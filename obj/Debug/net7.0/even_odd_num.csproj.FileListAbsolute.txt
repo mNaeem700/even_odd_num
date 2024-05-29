@@ -1,0 +1,14 @@
+d:\Projects\csharpe_projects\game_development_projects\even_odd_num\bin\Debug\net7.0\even_odd_num.exe
+d:\Projects\csharpe_projects\game_development_projects\even_odd_num\bin\Debug\net7.0\even_odd_num.deps.json
+d:\Projects\csharpe_projects\game_development_projects\even_odd_num\bin\Debug\net7.0\even_odd_num.runtimeconfig.json
+d:\Projects\csharpe_projects\game_development_projects\even_odd_num\bin\Debug\net7.0\even_odd_num.dll
+d:\Projects\csharpe_projects\game_development_projects\even_odd_num\bin\Debug\net7.0\even_odd_num.pdb
+d:\Projects\csharpe_projects\game_development_projects\even_odd_num\obj\Debug\net7.0\even_odd_num.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\csharpe_projects\game_development_projects\even_odd_num\obj\Debug\net7.0\even_odd_num.AssemblyInfoInputs.cache
+d:\Projects\csharpe_projects\game_development_projects\even_odd_num\obj\Debug\net7.0\even_odd_num.AssemblyInfo.cs
+d:\Projects\csharpe_projects\game_development_projects\even_odd_num\obj\Debug\net7.0\even_odd_num.csproj.CoreCompileInputs.cache
+d:\Projects\csharpe_projects\game_development_projects\even_odd_num\obj\Debug\net7.0\even_odd_num.dll
+d:\Projects\csharpe_projects\game_development_projects\even_odd_num\obj\Debug\net7.0\refint\even_odd_num.dll
+d:\Projects\csharpe_projects\game_development_projects\even_odd_num\obj\Debug\net7.0\even_odd_num.pdb
+d:\Projects\csharpe_projects\game_development_projects\even_odd_num\obj\Debug\net7.0\even_odd_num.genruntimeconfig.cache
+d:\Projects\csharpe_projects\game_development_projects\even_odd_num\obj\Debug\net7.0\ref\even_odd_num.dll
