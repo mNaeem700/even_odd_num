@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\csharpe_projects\\game_development_projects\\even_odd_num\\even_odd_num.csproj": {}
+    "d:\\Projects\\csharpe_projects\\game_development_projects\\even_odd_num\\even_odd_num.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\csharpe_projects\\game_development_projects\\even_odd_num\\even_odd_num.csproj": {
+    "d:\\Projects\\csharpe_projects\\game_development_projects\\even_odd_num\\even_odd_num.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\csharpe_projects\\game_development_projects\\even_odd_num\\even_odd_num.csproj",
+        "projectUniqueName": "d:\\Projects\\csharpe_projects\\game_development_projects\\even_odd_num\\even_odd_num.csproj",
         "projectName": "even_odd_num",
-        "projectPath": "D:\\Projects\\csharpe_projects\\game_development_projects\\even_odd_num\\even_odd_num.csproj",
+        "projectPath": "d:\\Projects\\csharpe_projects\\game_development_projects\\even_odd_num\\even_odd_num.csproj",
         "packagesPath": "C:\\Users\\JaM\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\csharpe_projects\\game_development_projects\\even_odd_num\\obj\\",
+        "outputPath": "d:\\Projects\\csharpe_projects\\game_development_projects\\even_odd_num\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JaM\\AppData\\Roaming\\NuGet\\NuGet.Config"
